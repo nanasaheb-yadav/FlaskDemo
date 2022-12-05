@@ -1,3 +1,7 @@
 h1{
     color: rgba(0, 255, 110, 0.411);
 }
+div{
+    border-color: aqua;
+    border-style: solid;
+}
